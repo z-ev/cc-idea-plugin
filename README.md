@@ -45,5 +45,5 @@ git clone https://github.com/evgeniizab/kt-ct-idea-plugin.git
 ```
 #### 2. В IDE Settings->Plugins->install Plugin from Disk и прописываем путь к kt-ct-idea-plugin.jar 
 ![image](doc/step1.png)
-#### 3. В окне коммита (VSC->Commit...) появляется конка с логотипом kt.team. Нажимаем на неё и появляется окно помощи для правильного описание коммита.
+#### 3. В окне коммита (VSC->Commit...) появляется конпка с логотипом kt.team. Нажимаем на неё и появляется окно помощи для правильного описания коммита.
 ![image](doc/step2.jpg)
